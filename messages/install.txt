@@ -1,0 +1,7 @@
+SublimeLinter-lizard
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to lizard.
+
+Please read the installation instructions at:
+
+https://github.com/binss/SublimeLinter-lizard
